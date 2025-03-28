@@ -1,0 +1,200 @@
+[
+	{
+		"id": 1,
+		"nome": "cegonha-bico-de-sapato",
+		"nomeCientifico": "Balaeniceps rex",
+		"localizacao": ["Sudão", "Sudão do Sul", "Congo", "Ruanda", "Uganda", "Tanzânia", "Zâmbia"],
+		"altura": 152,
+		"peso": 7,
+		"resumo": "O bico-de-sapato (Balaeniceps rex), popularmente conhecido como bico-de-tamanco ou cegonha-bico-de-sapato, é uma ave de bico grande. Tem características de uma cegonha, um pelicano, e de uma garça, mas não é parente de nenhum deles, os cientistas acreditam que o seu parente mais próximo seja o cabeça-de-martelo. Vive em regiões pantanosas localizadas no centro do continente africano, do Sudão à Zâmbia. Alimenta-se, basicamente, de peixes e rãs. É uma espécie de ave pelecaniforme, a única da família Balaenicipitidae. Seu nome comum se refere à forma de seu enorme bico."
+	},
+{
+		"id": 2,
+		"nome": "cacatua-negra-de-cauda-vermelha",
+		"nomeCientifico": "Calyptorhynchus banksii",
+		"localizacao": ["Austrália"],
+		"altura": 60,
+		"peso": 0.920,
+		"resumo": "A cacatua-negra-de-cauda-vermelha, catatua-preta-de-cauda-vermelha ou catatua-de-cauda-vermelha (Calyptorhynchus banksii) é uma ave da ordem Psittaciformes que pode chegar a 60 centímetros de comprimento e viver até 70 anos. O nome do gênero é derivado das palavras gregas calyptos (escondido) e rhynchus (bico). Cacatuas negras de cauda vermelha aprendem a voar com cerca de 4 meses de vida e tem pés zygodactyl, isto é, dois dedos virados para a frente e dois para trás, que lhes permitem agarrar e manipular objetos com apenas um pé enquanto se apoia no outro. Assim como na maioria das cacatuas e papagaios, as Cacatuas negras são quase exclusivamente canhotas. A coloração preta pode fazer com que algumas pessoas à confundam com a cacatua-das-palmeiras (Probosciger aterrimus). Seu bico é especializado em quebrar sementes: a maxila superior é maior que a inferior, e o encaixe garante certa mobilidade. O bico termina em um gancho pontudo, que a cacatua utiliza para se alimentar e para escalar. A língua é grossa e áspera."
+	},
+{
+		"id": 3,
+		"nome": "cacatua-das-palmeiras",
+		"nomeCientifico": "Probosciger aterrimus",
+		"localizacao": ["Austrália", "Indonésia", "Papua-Nova-Guiné"],
+		"altura": 60,
+		"peso": 1.2,
+		"resumo": "A cacatua-das-palmeiras ou cacatua negra (Probosciger aterrimus) é uma ave da família Cacatuidae nativa da Austrália, único membro do gênero monotípico Probosciger e da subfamília Microglossinae. Possui uma crista com penas longas em cima da cabeça, um bico largo, forte e afiado (com o qual pode abrir castanhas e sementes), e marcas vibrantes vermelhas nas bochechas. É uma das várias espécies de cacatua que podem ser encontradas como animal de estimação."
+	},
+{
+		"id": 4,
+		"nome": "maria-leque-do-sudeste",
+		"nomeCientifico": "Onychorhynchus swainsoni",
+		"localizacao": ["Brasil"],
+		"altura": 17.5,
+		"peso": 0.021,
+		"resumo": "A maria-leque-do-sudeste (Onychorhynchus swainsoni) é uma ave passeriforme da família Tityridae. Medindo de 16 a 17,5 cm de comprimento e pesando entre 13 e 21 gramas, a maria-leque-do-sudeste conta com uma crista espetacular, mas raramente vista. A parte de cima tem uma coloração uniforme marrom-pálida, cauda e uropígio canela, uma garganta esbranquiçada, e parte de baixo ocrácea. A crista é geralmente deixada plana, dando uma forma de cabeça de martelo à cabeça. Quando levantada, a crista mostra uma notável combinação de escarlate, preto e azul (o amarelo substituindo o vermelho nas fêmeas). A espécie é endêmica da Mata Atlântica do sudeste do Brasil, e está ameaçada por causa da perda de habitat."
+	},
+{
+		"id": 5,
+		"nome": "casuar-do-sul",
+		"nomeCientifico": "Casuarius casuarius",
+		"localizacao": ["Indonésia", "Austrália", "Papua-Nova-Guiné"],
+		"altura": 180,
+		"peso": 85,
+		"resumo": "O casuar-do-sul, também conhecido como casuar-comum ou casuar-de-capacete (Casuarius casuarius), é uma ave não-voadora nativa da Austrália, Indonésia, e Nova Guiné. É uma ave ratita, portanto, relacionados com o emu, avestruz, e o gênero Rhea.São aves curiosas que costumam imitar movimentos de humanos depois de observá-los atentamente, embora não sejam muito amigáveis ou domesticáveis."
+	},
+{
+		"id": 6,
+		"nome": "mutum-de-bico-amarelo",
+		"nomeCientifico": "Crax daubentoni",
+		"localizacao": ["Vanezuela", "Colômbia"],
+		"altura": 92.5,
+		"peso": 3.2,
+		"resumo": "O Mutum-de-bico-amarelo ou mutum-poru (Crax daubentoni) é um cracídeo encontrado na Venezuela e Colômbia.O macho é o único mutum com cera e acácia amarelas nodosas. Os machos e as fêmeas são em sua maioria pretos, com barriga inferior, área de ventilação e pontas das penas da cauda brancas. As fêmeas têm cera preta e barras claras no peito e na parte inferior do ventre."
+	},
+{
+		"id": 7,
+		"nome": "calau-de-capacete",
+		"nomeCientifico": "Rhinoplax vigil",
+		"localizacao": ["Malásia", "Brunei", "Tailândia", "Myanmar", "Indonésia"],
+		"altura": 120,
+		"peso": 3.1,
+		"resumo": "O calau-de-capacete (Rhinoplax vigil) é uma ave muito grande da família dos calaus. Pode ser encontrada na Península Malaia, Sumatra, Bornéu, Tailândia e Mianmar. O casco (estrutura semelhante a um capacete na cabeça) representa cerca de 11% do seu peso de 3 kg. Ao contrário de qualquer outro calau, o capacete é quase sólido e é usado em combates mano-a-mano entre machos. É uma crença entre os Punan Bah que um grande calau com capacete guarda o rio entre a vida e a morte."
+	},
+{
+		"id": 8,
+		"nome": "abutre-preto",
+		"nomeCientifico": "Aegypius monachus",
+		"localizacao": ["Espanha", "Portugal", "França", "Grécia", "Turquia", "Afeganistão", "Índia", "China", "Mongólia", "Coréia"],
+		"altura": 120,
+		"peso": 13.5,
+		"resumo": "Aegypius monachus é uma das maiores aves de rapina e desempenha um papel importante nos seus vários ecossistemas ao comer carcaças, o que por sua vez reduz a propagação de doenças. Os abutres estão constantemente expostos a muitos patógenos devido aos seus hábitos alimentares. Comparar o abutre e a águia americana permitirá ao estudo encontrar variações genéticas selecionadas positivamente associadas à respiração e à capacidade das respostas de defesa imunológica do abutre e da secreção de ácido gástrico para digerir as carcaças."
+	},
+{
+		"id": 9,
+		"nome": "urubu-rei",
+		"nomeCientifico": "Sarcoramphus papa",
+		"localizacao": ["México", "Guatemala", "Belize", "El Salvador", "Honduras", "Nicarágua", "Panamá", "Bolívia", "Costa Rica", "Colômbia", "Guiana", "Guiana Francesa", "Suriname", "Equador", "Venezuela", "Argentina", "Brasil", "Paraguai", "Peru", "Uruguai"],
+		"altura": 81,
+		"peso": 4.5,
+		"resumo": "O urubu-rei (Sarcoramphus papa), também designado como urubu-real, urubutinga, corvo-branco, urubu-branco, urubu-rubixá ou iriburubixá, é uma ave acipitriforme da família dos catartídeos (Cathartidae). Habitante de zonas tropicais a semitropicais, desde o México à Argentina. Habita todo o território brasileiro, Tem cabeça e pescoço nus, pintados de vermelho, amarelo e alaranjado, a parte superior do corpo amarelo-clara, esbranquiçada, asas e cauda pretas, o lado inferior branco, com plumagem branca e negra. Na natureza, tem poucos predadores naturais, mas, devido à baixa reprodutividade da espécie e à degradação do seu habitat, é uma espécie cada vez mais rara de se observar."
+	},
+{
+		"id": 10,
+		"nome": "carcará",
+		"nomeCientifico": "Caracara plancus",
+		"localizacao": ["Bolívia", "Argentina", "Brasil", "Paraguai", "Peru", "Uruguai", "Chile"],
+		"altura": 60,
+		"peso": 0.953,
+		"resumo": "O carcará (Caracara plancus) , caracara-de-crista ou carcará-de-poupa é uma espécie de ave de rapina da Ordem Falconiformes, Família Falconidae. Habita o centro e o sul da América do Sul. Também é conhecido pelos nomes: caracará, carancho, caranjo, caracara, caracaraí e gavião-de-queimada. Taxonomicamente, o carcará não é uma águia e nem um gavião, mas sim um parente distante dos falcões. Deve seu nome à vocalização que emite."
+	},
+{
+		"id": 11,
+		"nome": "harpia",
+		"nomeCientifico": "Harpia harpyja",
+		"localizacao": ["Bolívia", "Equador", "Brasil", "Paraguai", "Peru", "Colômbia", "Chile", "Venezuela", "Guiana", "Guiana Francesa", "Suriname", "México", "Guatemala", "Honduras", "El Salvador", "Nicarágua", "Costa Rica", "Panamá", "Belize"],
+		"altura": 107,
+		"peso": 8.3,
+		"resumo": "O gavião-real (Harpia harpyja), também chamado cutucurim, gavião-de-penacho, harpia, uiraçu, uiracuir, uiruuetê, uraçu, águia-imperial-brasileira, águia-imperial ou uiraçu-verdadeiro, é uma ave acipitriforme da família dos acipitrídeos (Accipitridae). É a maior e mais poderosa ave de rapina encontrada em toda a sua extensão e está entre as maiores espécies de águias existentes no mundo. Geralmente habita florestas tropicais de baixa altitude na camada superior (emergente) do dossel. A destruição de seu habitat natural fez com que desaparecesse de muitas partes de seu antigo território e está quase extirpado de grande parte da América Central."
+	},
+{
+		"id": 12,
+		"nome": "condor-dos-andes",
+		"nomeCientifico": "Vultur gryphus",
+		"localizacao": ["Bolívia", "Equador", "Peru", "Colômbia", "Chile", "Argentina"],
+		"altura": 130,
+		"peso": 15,
+		"resumo": "O condor (Vultur gryphus) é uma ave da família dos catartídeos, parente próximo do condor-da-califórnia e dos urubus, que habita a Cordilheira Andina, na América do Sul. Ele é o símbolo nacional da Colômbia, Equador, Bolívia e Chile e integra os brasões oficiais destes países, além de cumprir um importante papel no folclore e na mitologia das regiões andinas da América do Sul. Essa espécie era cultuada pelos incas."
+	},
+{
+		"id": 13,
+		"nome": "quetzal-resplandecente",
+		"nomeCientifico": "Pharomachrus mocinno",
+		"localizacao": ["México", "El Salvador", "Honduras", "Guatemala", "Nicarágua", "Panamá", "Costa Rica"],
+		"altura": 40,
+		"peso": 0.210,
+		"resumo": "O quetzal-resplandecente (Pharomachrus mocinno), é um pequeno pássaro encontrado no sul do México e América central que vive em florestas tropicais, particularmente floresta nubladas. Eles fazem parte da família frogoniformes e tem duas subespécies reconhecidas, P. m. mocinno and P. m. costaricensis. Como os outros quetzais, o resplandecente é majoritariamente omnívoro; a sua dieta consiste maioritariamente em frutos de plantas na família laurales, lauraceae, mas também ocasionalmente presa insectos, lagarto, sapos e caracóis. Tem um papel importante na mitologia mesoamericana, e está intimamente associado ao Quetzalcóatl."
+	},
+{
+		"id": 14,
+		"nome": "ave-do-paraíso-de-raggi",
+		"nomeCientifico": "Paradisaea raggiana",
+		"localizacao": ["Papua-Nova-Guiné"],
+		"altura": 71,
+		"peso": 0.340,
+		"resumo": "A ave-do-paraíso-de-raggi (Paradisaea raggiana) é uma ave passeriforme, da família Paradisaeidae, nativa da Papua-Nova Guiné. É amplamente distribuído no sul e nordeste da Nova Guiné, onde seu nome é kumul. Também é conhecido como cenderawasih. A ave-do-paraíso-de-raggi é a ave nacional da Papua Nova Guiné. Em 1971, esta espécie, como Gerrus paradisaea, tornou-se emblema nacional e foi incluída na bandeira nacional. 'The Kumuls' ('pássaros do paraíso' em Tok Pisin) também é o apelido da seleção nacional de rugby do país."
+	},
+{
+		"id": 15,
+		"nome": "grou-coroado-cinza",
+		"nomeCientifico": "Balearica regulorum",
+		"localizacao": ["Quênia", "Uganda", "Ruanda", "Burundi", "República Democrática do Congo", "Tanzânia", "Zâmbia", "Malawi", "Moçambique", "Zimbábue", "Botsuana", "Lesoto", "África do Sul", "Namíbia", "Angola"],
+		"altura": 100,
+		"peso": 3.5,
+		"resumo": "Grou-coroado-cinzento ou grou-coroado-austral (Balearica regulorum), também conhecido como grou-coroado-comum, grou-coroado-oriental, grou-coroado-de-pescoço-cinzento e grou-coroado-azul é um grou africano da família Gruidae. A espécie é natural da savana árida africana. Existem duas subespécies, a B. r. gibbericeps no leste da República Democrática do Congo até Uganda, do qual é a ave símbolo, e a B. r. regulorum de tamanho melhor que é comum de Angola até o sul da África. São conhecidos por suas danças espetaculares, que envolvem balançar a cabeça, vibrar as asas, saltar e se curvar. Muitos povos locais acreditam que esses grous podem trazer chuva, então incluem fotos deles em seus rituais e imitam suas danças para incentivar a estação de chuvas."
+	},
+{
+		"id": 16,
+		"nome": "serpentário",
+		"nomeCientifico": "Sagittarius serpentarius",
+		"localizacao": ["Quênia", "Uganda", "Ruanda", "Burundi", "República Democrática do Congo", "Tanzânia", "Zâmbia", "Malawi", "Moçambique", "Zimbábue", "Botsuana", "Lesoto", "África do Sul", "Namíbia", "Angola", "Senegal", "Mauritânia", "Mali", "Burquina Fasso", "Costa do Marfim", "Gana", "Togo", "Benim", "Níger", "Nigéria", "Camarões", "Chade", "República Centro-Africana", "Sudão", "Sudão do Sul", "Eritreia", "Djibuti", "Etiópia", "Somália", "Essuatíni"],
+		"altura": 150,
+		"peso": 4.27,
+		"resumo": "O secretário (Sagittarius serpentarius), também conhecido como serpentário é uma espécie de ave de rapina de grande porte, predominantemente terrestre. Endémica de África, é encontrada geralmente nos campos abertos de erva e nas savanas das regiões subsarianas. Descrita pela primeira vez em 1779 por John Frederick Miller, apesar de ser um membro da ordem Accipitriformes (que inclui outras aves de rapina diurnas como peneireiros, falcões e abutres), tem a sua propria familia, a Sagittariidae. Os sexos são de aparência similar. Os adultos têm face vermelho-laranja sem penas e uma plumagem predominantemente cinzenta."
+	},
+{
+		"id": 17,
+		"nome": "mainá-da-montanha",
+		"nomeCientifico": "Gracula religiosa",
+		"localizacao": ["Índia", "Nepal", "Butão", "China", "Tailândia", "Indonésia", "Filipinas", "Brunei", "Camboja", "Laos", "Malásia", "Myanmar", "Singapura", "Vietnã"],
+		"altura": 35,
+		"peso": 0.229,
+		"resumo": "O mainá-da-montanha (Gracula religiosa), é o mainá mais comumente avistado na avicultura, onde muitas vezes é simplesmente referido pelos dois últimos nomes. É um membro da família dos estorninhos (Sturnidae), residente nas regiões montanhosas do Sul e Sudeste Asiático. O mainá-da-montanha é um pássaro falante popular. Seu nome específico religiosa pode aludir à prática de ensinar mainás a repetir orações."
+	},
+{
+		"id": 18,
+		"nome": "curicaca",
+		"nomeCientifico": "Theristicus caudatus",
+		"localizacao": ["Brasil", "Uruguai", "Argentina", "Paraguai", "Bolívia", "Colômbia", "Venezuela", "Guiana", "Guiana Francesa"],
+		"altura": 75,
+		"peso": 1.7,
+		"resumo": "A curicaca (ou curucaca) (Theristicus caudatus) é uma ave pelecaniforme da família dos tresquiornitídeos que ocorre desde a Colômbia até a região da Terra do Fogo, bem como parte do Brasil. Mede cerca de 69 cm de comprimento e tem cerca de 43 cm de altura, possuindo ainda um bico longo e curvo, pescoço esbranquiçado ou alaranjado, peito alaranjado, dorso cinza-esverdeado e partes inferiores negras, além das pernas avermelhadas. Também é conhecida pelos nomes de curicaca-comum, curicaca-de-pescoço-branco, curucaca e despertador. É considerada ave símbolo de São José dos Ausentes conforme lei nº 636, de 8 de dezembro de 2005."
+	},
+{
+		"id": 19,
+		"nome": "calau-de-bico-amarelo-meridional",
+		"nomeCientifico": "Tockus leucomelas",
+		"localizacao": ["África do Sul", "Botsuana", "Namíbia", "Essuatíni", "Zimbábue", "Moçambique", "Angola", "Zâmbia", "Maláui"],
+		"altura": 60,
+		"peso": 0.242,
+		"resumo": "O calau-de-bico-amarelo-meridional (Tockus leucomelas) é um calau encontrado no sul da África. Os calaus-de-bico-amarelo se alimentam principalmente do solo, onde procuram sementes, pequenos insetos, aranhas e escorpiões. Esta espécie de calau é um residente comum e difundido em florestas secas de espinhos e florestas de folhas largas. Muitas vezes podem ser vistos ao longo de estradas e cursos de água."
+	},
+{
+		"id": 20,
+		"nome": "falcão-peregrino",
+		"nomeCientifico": "Falco peregrinus",
+		"localizacao": ["global"],
+		"altura": 58,
+		"peso": 1.5,
+		"resumo": "O falcão-peregrino (Falco peregrinus) é uma ave de rapina diurna de médio porte que pode ser encontrada em todos os continentes exceto na Antártida. A espécie prefere habitats em zonas montanhosas ou costeiras, mas pode também ser encontrado em grandes cidades como Nova Iorque. Na América do Sul, ele só surge como espécie migratória, não nidificando aqui. Como ave reprodutora, é substituído na América do Sul por uma espécie similar e um pouco menor, o falcão-de-peito-laranja. Atualmente a ave é considerada o animal mais veloz do mundo, podendo atingir cerca de 320 km/h ou mais. Na mitologia egípcia, o falcão-peregrino (ou o falcão-lanário) é o animal utilizado para representar os deuses Hórus e Rá."
+	},
+{
+		"id": 21,
+		"nome": "urutau-grande",
+		"nomeCientifico": "Nyctibius grandis",
+		"localizacao": ["Brasil", "Peru", "Bolívia", "Colômbia", "Venezuela", "Guiana", "Guiana Francesa", "Suriname", "Panamá", "Equador", "México", "Guatemala", "Honduras", "Nicarágua", "Costa Rica"],
+		"altura": 57,
+		"peso": 0.620,
+		"resumo": "O urutau-grande (Nyctibius grandis), também chamado genericamente de chora-lua, ibijaú-guaçu, jurutau, mãe-da-lua, manda-lua, preguiça e urutago, é uma ave da família dos nictibiídeos (Nyctibiidae). Sua característica mais conhecida é o gemido único que emite durante a noite. Sua vocalização bizarra muitas vezes é fonte de lendas e temores por parte da população rural. Provavelmente é dessa espécie o “rugido” noturno que os moradores da zona da mata mineira atribuem ao personagem folclórico conhecido como caboclo d`água. Apresenta uma boca descomunal e difere de outras espécies da mesma família por sua plumagem esbranquiçada."
+	},
+{
+		"id": 22,
+		"nome": "jacu-cigano",
+		"nomeCientifico": "Opisthocomus hoazin",
+		"localizacao": ["Brasil", "Peru", "Bolívia", "Colômbia", "Venezuela", "Guiana", "Guiana Francesa", "Suriname"],
+		"altura": 65,
+		"peso": 0.800,
+		"resumo": "O jacu-cigano, cigana ou aturiá (Opisthocomus hoazin) é uma espécie de ave nativa da zona norte da América do Sul. O seus habitats são as zonas pantanosas e alagadas das bacias hidrográficas do Amazonas e Orinoco. É a única espécie da família Opisthocomidae e do género Opisthocomus. A cigana é notável por seus filhotes terem garras primitivas em dois dos dedos das asas; a espécie também é única por possuir um sistema digestivo capaz de fermentação e decomposição eficaz da matéria vegetal, uma característica mais comumente conhecida em mamíferos ruminantes ungulados herbívoros e alguns primatas. Esta ave também é a ave nacional da Guiana, onde o nome local desta ave é faisão Canje."
+	}
+]
