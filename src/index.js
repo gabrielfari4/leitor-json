@@ -48,7 +48,32 @@ const filtrarPassaro = (lista, busca) => {
             return typeof valor === "string" && valor.toLowerCase().includes(buscaString)
         });
     })
-    console.log(passaros) 
+    criarESalvarArquivo(passaros)
 }
 
-// console.log(caminhoArquivo)
+const criarESalvarArquivo = (resultado) => {
+    // const arquivoNovo = `/buscas/${busca}.txt`
+
+    /* const textoFinal = resultado.forEach(objeto => {
+        for (const element of objeto) {
+            `${element}: ${objeto[element]}`
+        }
+    }); */
+    resultado.forEach(object => {
+        formatarTexto(object)
+    });
+}
+
+const formatarTexto = (objeto) => {
+    for (const element in objeto) {
+        console.log(`${element}: ${
+            element === "localizacao" ? objeto[element].join(', ')
+            : element === "altura" ? (objeto[element] + "cm")
+            : element === "peso" ? (objeto[element] + "kg")
+            : objeto[element]
+        }`)
+    }
+    console.log(`\n`)
+} 
+
+// INPUT node .\src\index.js .\json\posts.json brasil
