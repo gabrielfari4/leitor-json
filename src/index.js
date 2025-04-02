@@ -48,11 +48,12 @@ const filtrarPassaro = (lista, busca) => {
             return typeof valor === "string" && valor.toLowerCase().includes(buscaString)
         });
     })
-    criarESalvarArquivo(passaros)
+   criarESalvarArquivo(passaros, buscaString)
 }
 
-const criarESalvarArquivo = (resultado) => {
-    // const arquivoNovo = `/buscas/${busca}.txt`
+const criarESalvarArquivo = async (resultado, busca) => {
+    const arquivoNovo = `buscas/${busca}.txt`
+    let textoNoArquivo = '';
 
     /* const textoFinal = resultado.forEach(objeto => {
         for (const element of objeto) {
@@ -60,20 +61,33 @@ const criarESalvarArquivo = (resultado) => {
         }
     }); */
     resultado.forEach(object => {
-        formatarTexto(object)
+       textoNoArquivo += formatarTexto(object) 
     });
+    try {
+       await fs.promises.writeFile(arquivoNovo, textoNoArquivo)
+
+        
+       console.log('arquivo criado')
+    } catch (error) {
+        console.log(error)
+    }
+//    console.log(textoNoArquivo);
+   
+
 }
 
 const formatarTexto = (objeto) => {
+    let textoFormatado = ''
     for (const element in objeto) {
-        console.log(`${element}: ${
+        textoFormatado += `${element}: ${
             element === "localizacao" ? objeto[element].join(', ')
             : element === "altura" ? (objeto[element] + "cm")
             : element === "peso" ? (objeto[element] + "kg")
             : objeto[element]
-        }`)
+        }`
+        textoFormatado += '\n'
     }
-    console.log(`\n`)
+    return textoFormatado += '\n'
 } 
 
 // INPUT node .\src\index.js .\json\posts.json brasil

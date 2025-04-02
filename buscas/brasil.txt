@@ -1,0 +1,56 @@
+id: 4
+nome: maria-leque-do-sudeste
+nomeCientifico: Onychorhynchus swainsoni
+localizacao: Brasil
+altura: 17.5cm
+peso: 0.021kg
+resumo: A maria-leque-do-sudeste (Onychorhynchus swainsoni) é uma ave passeriforme da família Tityridae. Medindo de 16 a 17,5 cm de comprimento e pesando entre 13 e 21 gramas, a maria-leque-do-sudeste conta com uma crista espetacular, mas raramente vista. A parte de cima tem uma coloração uniforme marrom-pálida, cauda e uropígio canela, uma garganta esbranquiçada, e parte de baixo ocrácea. A crista é geralmente deixada plana, dando uma forma de cabeça de martelo à cabeça. Quando levantada, a crista mostra uma notável combinação de escarlate, preto e azul (o amarelo substituindo o vermelho nas fêmeas). A espécie é endêmica da Mata Atlântica do sudeste do Brasil, e está ameaçada por causa da perda de habitat.
+
+id: 9
+nome: urubu-rei
+nomeCientifico: Sarcoramphus papa
+localizacao: México, Guatemala, Belize, El Salvador, Honduras, Nicarágua, Panamá, Bolívia, Costa Rica, Colômbia, Guiana, Guiana Francesa, Suriname, Equador, Venezuela, Argentina, Brasil, Paraguai, Peru, Uruguai
+altura: 81cm
+peso: 4.5kg
+resumo: O urubu-rei (Sarcoramphus papa), também designado como urubu-real, urubutinga, corvo-branco, urubu-branco, urubu-rubixá ou iriburubixá, é uma ave acipitriforme da família dos catartídeos (Cathartidae). Habitante de zonas tropicais a semitropicais, desde o México à Argentina. Habita todo o território brasileiro, Tem cabeça e pescoço nus, pintados de vermelho, amarelo e alaranjado, a parte superior do corpo amarelo-clara, esbranquiçada, asas e cauda pretas, o lado inferior branco, com plumagem branca e negra. Na natureza, tem poucos predadores naturais, mas, devido à baixa reprodutividade da espécie e à degradação do seu habitat, é uma espécie cada vez mais rara de se observar.
+
+id: 10
+nome: carcará
+nomeCientifico: Caracara plancus
+localizacao: Bolívia, Argentina, Brasil, Paraguai, Peru, Uruguai, Chile
+altura: 60cm
+peso: 0.953kg
+resumo: O carcará (Caracara plancus) , caracara-de-crista ou carcará-de-poupa é uma espécie de ave de rapina da Ordem Falconiformes, Família Falconidae. Habita o centro e o sul da América do Sul. Também é conhecido pelos nomes: caracará, carancho, caranjo, caracara, caracaraí e gavião-de-queimada. Taxonomicamente, o carcará não é uma águia e nem um gavião, mas sim um parente distante dos falcões. Deve seu nome à vocalização que emite.
+
+id: 11
+nome: harpia
+nomeCientifico: Harpia harpyja
+localizacao: Bolívia, Equador, Brasil, Paraguai, Peru, Colômbia, Chile, Venezuela, Guiana, Guiana Francesa, Suriname, México, Guatemala, Honduras, El Salvador, Nicarágua, Costa Rica, Panamá, Belize
+altura: 107cm
+peso: 8.3kg
+resumo: O gavião-real (Harpia harpyja), também chamado cutucurim, gavião-de-penacho, harpia, uiraçu, uiracuir, uiruuetê, uraçu, águia-imperial-brasileira, águia-imperial ou uiraçu-verdadeiro, é uma ave acipitriforme da família dos acipitrídeos (Accipitridae). É a maior e mais poderosa ave de rapina encontrada em toda a sua extensão e está entre as maiores espécies de águias existentes no mundo. Geralmente habita florestas tropicais de baixa altitude na camada superior (emergente) do dossel. A destruição de seu habitat natural fez com que desaparecesse de muitas partes de seu antigo território e está quase extirpado de grande parte da América Central.
+
+id: 18
+nome: curicaca
+nomeCientifico: Theristicus caudatus
+localizacao: Brasil, Uruguai, Argentina, Paraguai, Bolívia, Colômbia, Venezuela, Guiana, Guiana Francesa
+altura: 75cm
+peso: 1.7kg
+resumo: A curicaca (ou curucaca) (Theristicus caudatus) é uma ave pelecaniforme da família dos tresquiornitídeos que ocorre desde a Colômbia até a região da Terra do Fogo, bem como parte do Brasil. Mede cerca de 69 cm de comprimento e tem cerca de 43 cm de altura, possuindo ainda um bico longo e curvo, pescoço esbranquiçado ou alaranjado, peito alaranjado, dorso cinza-esverdeado e partes inferiores negras, além das pernas avermelhadas. Também é conhecida pelos nomes de curicaca-comum, curicaca-de-pescoço-branco, curucaca e despertador. É considerada ave símbolo de São José dos Ausentes conforme lei nº 636, de 8 de dezembro de 2005.
+
+id: 21
+nome: urutau-grande
+nomeCientifico: Nyctibius grandis
+localizacao: Brasil, Peru, Bolívia, Colômbia, Venezuela, Guiana, Guiana Francesa, Suriname, Panamá, Equador, México, Guatemala, Honduras, Nicarágua, Costa Rica
+altura: 57cm
+peso: 0.62kg
+resumo: O urutau-grande (Nyctibius grandis), também chamado genericamente de chora-lua, ibijaú-guaçu, jurutau, mãe-da-lua, manda-lua, preguiça e urutago, é uma ave da família dos nictibiídeos (Nyctibiidae). Sua característica mais conhecida é o gemido único que emite durante a noite. Sua vocalização bizarra muitas vezes é fonte de lendas e temores por parte da população rural. Provavelmente é dessa espécie o “rugido” noturno que os moradores da zona da mata mineira atribuem ao personagem folclórico conhecido como caboclo d`água. Apresenta uma boca descomunal e difere de outras espécies da mesma família por sua plumagem esbranquiçada.
+
+id: 22
+nome: jacu-cigano
+nomeCientifico: Opisthocomus hoazin
+localizacao: Brasil, Peru, Bolívia, Colômbia, Venezuela, Guiana, Guiana Francesa, Suriname
+altura: 65cm
+peso: 0.8kg
+resumo: O jacu-cigano, cigana ou aturiá (Opisthocomus hoazin) é uma espécie de ave nativa da zona norte da América do Sul. O seus habitats são as zonas pantanosas e alagadas das bacias hidrográficas do Amazonas e Orinoco. É a única espécie da família Opisthocomidae e do género Opisthocomus. A cigana é notável por seus filhotes terem garras primitivas em dois dos dedos das asas; a espécie também é única por possuir um sistema digestivo capaz de fermentação e decomposição eficaz da matéria vegetal, uma característica mais comumente conhecida em mamíferos ruminantes ungulados herbívoros e alguns primatas. Esta ave também é a ave nacional da Guiana, onde o nome local desta ave é faisão Canje.
+

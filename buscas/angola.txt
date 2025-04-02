@@ -1,0 +1,24 @@
+id: 15
+nome: grou-coroado-cinza
+nomeCientifico: Balearica regulorum
+localizacao: Quênia, Uganda, Ruanda, Burundi, República Democrática do Congo, Tanzânia, Zâmbia, Malawi, Moçambique, Zimbábue, Botsuana, Lesoto, África do Sul, Namíbia, Angola
+altura: 100cm
+peso: 3.5kg
+resumo: Grou-coroado-cinzento ou grou-coroado-austral (Balearica regulorum), também conhecido como grou-coroado-comum, grou-coroado-oriental, grou-coroado-de-pescoço-cinzento e grou-coroado-azul é um grou africano da família Gruidae. A espécie é natural da savana árida africana. Existem duas subespécies, a B. r. gibbericeps no leste da República Democrática do Congo até Uganda, do qual é a ave símbolo, e a B. r. regulorum de tamanho melhor que é comum de Angola até o sul da África. São conhecidos por suas danças espetaculares, que envolvem balançar a cabeça, vibrar as asas, saltar e se curvar. Muitos povos locais acreditam que esses grous podem trazer chuva, então incluem fotos deles em seus rituais e imitam suas danças para incentivar a estação de chuvas.
+
+id: 16
+nome: serpentário
+nomeCientifico: Sagittarius serpentarius
+localizacao: Quênia, Uganda, Ruanda, Burundi, República Democrática do Congo, Tanzânia, Zâmbia, Malawi, Moçambique, Zimbábue, Botsuana, Lesoto, África do Sul, Namíbia, Angola, Senegal, Mauritânia, Mali, Burquina Fasso, Costa do Marfim, Gana, Togo, Benim, Níger, Nigéria, Camarões, Chade, República Centro-Africana, Sudão, Sudão do Sul, Eritreia, Djibuti, Etiópia, Somália, Essuatíni
+altura: 150cm
+peso: 4.27kg
+resumo: O secretário (Sagittarius serpentarius), também conhecido como serpentário é uma espécie de ave de rapina de grande porte, predominantemente terrestre. Endémica de África, é encontrada geralmente nos campos abertos de erva e nas savanas das regiões subsarianas. Descrita pela primeira vez em 1779 por John Frederick Miller, apesar de ser um membro da ordem Accipitriformes (que inclui outras aves de rapina diurnas como peneireiros, falcões e abutres), tem a sua propria familia, a Sagittariidae. Os sexos são de aparência similar. Os adultos têm face vermelho-laranja sem penas e uma plumagem predominantemente cinzenta.
+
+id: 19
+nome: calau-de-bico-amarelo-meridional
+nomeCientifico: Tockus leucomelas
+localizacao: África do Sul, Botsuana, Namíbia, Essuatíni, Zimbábue, Moçambique, Angola, Zâmbia, Malawi
+altura: 60cm
+peso: 0.242kg
+resumo: O calau-de-bico-amarelo-meridional (Tockus leucomelas) é um calau encontrado no sul da África. Os calaus-de-bico-amarelo se alimentam principalmente do solo, onde procuram sementes, pequenos insetos, aranhas e escorpiões. Esta espécie de calau é um residente comum e difundido em florestas secas de espinhos e florestas de folhas largas. Muitas vezes podem ser vistos ao longo de estradas e cursos de água.
+
