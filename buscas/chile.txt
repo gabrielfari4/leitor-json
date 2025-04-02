@@ -1,0 +1,24 @@
+id: 10
+nome: carcará
+nomeCientifico: Caracara plancus
+localizacao: Bolívia, Argentina, Brasil, Paraguai, Peru, Uruguai, Chile
+altura: 60cm
+peso: 0.953kg
+resumo: O carcará (Caracara plancus) , caracara-de-crista ou carcará-de-poupa é uma espécie de ave de rapina da Ordem Falconiformes, Família Falconidae. Habita o centro e o sul da América do Sul. Também é conhecido pelos nomes: caracará, carancho, caranjo, caracara, caracaraí e gavião-de-queimada. Taxonomicamente, o carcará não é uma águia e nem um gavião, mas sim um parente distante dos falcões. Deve seu nome à vocalização que emite.
+
+id: 11
+nome: harpia
+nomeCientifico: Harpia harpyja
+localizacao: Bolívia, Equador, Brasil, Paraguai, Peru, Colômbia, Chile, Venezuela, Guiana, Guiana Francesa, Suriname, México, Guatemala, Honduras, El Salvador, Nicarágua, Costa Rica, Panamá, Belize
+altura: 107cm
+peso: 8.3kg
+resumo: O gavião-real (Harpia harpyja), também chamado cutucurim, gavião-de-penacho, harpia, uiraçu, uiracuir, uiruuetê, uraçu, águia-imperial-brasileira, águia-imperial ou uiraçu-verdadeiro, é uma ave acipitriforme da família dos acipitrídeos (Accipitridae). É a maior e mais poderosa ave de rapina encontrada em toda a sua extensão e está entre as maiores espécies de águias existentes no mundo. Geralmente habita florestas tropicais de baixa altitude na camada superior (emergente) do dossel. A destruição de seu habitat natural fez com que desaparecesse de muitas partes de seu antigo território e está quase extirpado de grande parte da América Central.
+
+id: 12
+nome: condor-dos-andes
+nomeCientifico: Vultur gryphus
+localizacao: Bolívia, Equador, Peru, Colômbia, Chile, Argentina
+altura: 130cm
+peso: 15kg
+resumo: O condor (Vultur gryphus) é uma ave da família dos catartídeos, parente próximo do condor-da-califórnia e dos urubus, que habita a Cordilheira Andina, na América do Sul. Ele é o símbolo nacional da Colômbia, Equador, Bolívia e Chile e integra os brasões oficiais destes países, além de cumprir um importante papel no folclore e na mitologia das regiões andinas da América do Sul. Essa espécie era cultuada pelos incas.
+

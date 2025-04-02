@@ -1,29 +1,55 @@
 import fs from 'fs';
+import { Command } from 'commander';
 
-const caminhoArquivo = process.argv
+const program = new Command();
+
+program
+    .version('0.0.1')
+    .option('-r, --referencia <string>', 'caminho do texto de referência a ser pesquisado')
+    .option('-b, --busca <string>', 'termo a ser buscado')
+    .action((options) => {
+        const {referencia, busca} = options;
+
+        if (!referencia || !busca) {
+            console.error('erro: por favor insira o caminho do texto de referência e o termo de busca')
+            program.help()
+            return
+        }
+
+        try {
+            lerArquivo(referencia, busca)
+            console.log('arquivo processado')
+        } catch (error) {
+            console.log('ocorreu um erro no processamento: ', error);
+        }
+    })
+
+
+
+/* const caminhoArquivo = process.argv
 const link = caminhoArquivo[2]
-const termo = caminhoArquivo[3]
+const termo = caminhoArquivo[3] */
 
-const lerArquivo = async () => {
+const lerArquivo = async (origem, termo) => {
     try {
-       const contents = await fs.promises.readFile(link, 'utf-8')
-       parsearESepararNomes(contents)
-    //    console.log(novoContent[0].nome)
+       const contents = await fs.promises.readFile(origem, 'utf-8');
+       const texto = JSON.parse(contents);
+       filtrarPassaro(texto, termo);
     } catch (error) {
         console.log(error)
     }
 }
 
-lerArquivo()
+// lerArquivo()
 
-const parsearESepararNomes = (texto) => {
+/* const parsearESepararNomes = (texto) => {
     const listaTexto = JSON.parse(texto)
-    /* const nomes = listaTexto.map((passaro, index) => {
+    const nomes = listaTexto.map((passaro, index) => {
         return `${index +1 }: ${passaro.nome}`
-    }) */
-    // console.log(listaTexto)
+    })
+    console.log(listaTexto)
     filtrarPassaro(listaTexto, termo)
-}
+} */
 
 const filtrarPassaro = (lista, busca) => {
     const buscaString = busca.toString().toLowerCase()
@@ -89,5 +115,7 @@ const formatarTexto = (objeto) => {
     }
     return textoFormatado += '\n'
 } 
+
+program.parse()
 
 // INPUT node .\src\index.js .\json\posts.json brasil
