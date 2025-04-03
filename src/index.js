@@ -40,32 +40,12 @@ const lerArquivo = async (origem, termo) => {
     }
 }
 
-// lerArquivo()
-
-/* const parsearESepararNomes = (texto) => {
-    const listaTexto = JSON.parse(texto)
-    const nomes = listaTexto.map((passaro, index) => {
-        return `${index +1 }: ${passaro.nome}`
-    })
-    console.log(listaTexto)
-    filtrarPassaro(listaTexto, termo)
-} */
-
 const filtrarPassaro = (lista, busca) => {
     const buscaString = busca.toString().toLowerCase()
     const passaros = lista.filter((passaro) => {
-        /* for (const element of passaro) {
-            element.includes(busca)
-        } */
-    //    return passaro.localizacao.includes(busca)
-        // return passaro.filter(prop => prop.includes(busca))
         return Object.values(passaro).some(valor => {
             if (typeof valor === 'number') return valor.toString().includes(buscaString)
             if (typeof valor === 'object') {
-                /* for (const element in valor) {
-                    return element.toLowerCase() === busca
-                } */
-            //    return console.log(valor.includes(busca))
                 const novoArray = valor.map(element => {
                    return element.toLowerCase()
                 });
@@ -80,26 +60,15 @@ const filtrarPassaro = (lista, busca) => {
 const criarESalvarArquivo = async (resultado, busca) => {
     const arquivoNovo = `buscas/${busca}.txt`
     let textoNoArquivo = '';
-
-    /* const textoFinal = resultado.forEach(objeto => {
-        for (const element of objeto) {
-            `${element}: ${objeto[element]}`
-        }
-    }); */
     resultado.forEach(object => {
        textoNoArquivo += formatarTexto(object) 
     });
     try {
        await fs.promises.writeFile(arquivoNovo, textoNoArquivo)
-
-        
        console.log('arquivo criado')
     } catch (error) {
         console.log(error)
     }
-//    console.log(textoNoArquivo);
-   
-
 }
 
 const formatarTexto = (objeto) => {
@@ -118,4 +87,4 @@ const formatarTexto = (objeto) => {
 
 program.parse()
 
-// INPUT node .\src\index.js .\json\posts.json brasil
+// INPUT node .\src\index.js -r .\json\posts.json -b brasil
